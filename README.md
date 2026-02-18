@@ -103,3 +103,15 @@ This dashboard provides a centralized analytical solution for performance monito
 
 ---
 
+
+## 👩‍💻Author
+
+Ananya Singh
+
+Aspiring Data Analyst | Skilled in SQL, Excel, Power BI, Python
+
+---
+
+## If You Like This Project
+
+Give this repository a ⭐ on GitHub!

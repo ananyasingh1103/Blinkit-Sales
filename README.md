@@ -90,6 +90,7 @@ This dashboard provides a centralized analytical solution for performance monito
 ## File Included
 
 * `blinkitdashboard.pbit` – Power BI Template File
+* `dashboard-snapshot.png` - Dashbaord Snapshot 
 
 ---
 

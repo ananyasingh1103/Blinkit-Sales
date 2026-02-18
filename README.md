@@ -1,4 +1,4 @@
-# Blinkit Sales Analysis Dashboard | Power BI Project
+# Blinkit Sales Analysis Dashboard
 
 ## Project Summary
 
@@ -94,23 +94,6 @@ This dashboard provides a centralized analytical solution for performance monito
 
 ---
 
-## How to Run the Project
-
-1. Download the `.pbit` file
-2. Open using Power BI Desktop
-3. Load dataset when prompted
-4. Interact with dashboard filters
-
----
-
-
-## 👩‍💻Author
-
-Ananya Singh
-
-Aspiring Data Analyst | Skilled in SQL, Excel, Power BI, Python
-
----
 
 ## If You Like This Project
 
